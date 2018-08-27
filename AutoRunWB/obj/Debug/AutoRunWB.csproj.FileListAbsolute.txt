@@ -1,0 +1,10 @@
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\bin\Debug\AutoRunWB.exe.config
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\bin\Debug\AutoRunWB.exe
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\bin\Debug\AutoRunWB.pdb
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\obj\Debug\AutoRunWB.Form1.resources
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\obj\Debug\AutoRunWB.Properties.Resources.resources
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\obj\Debug\AutoRunWB.csproj.GenerateResource.Cache
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\obj\Debug\AutoRunWB.exe
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\obj\Debug\AutoRunWB.pdb
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\bin\Debug\System.Management.Automation.dll
+c:\users\fisiu\documents\visual studio 2015\Projects\AutoRunWB\AutoRunWB\obj\Debug\AutoRunWB.csprojResolveAssemblyReference.cache
